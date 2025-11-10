@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Veri Analisti",
+    "category": "Teknoloji",
+    "skills": ["Python", "Excel", "Veri görselleştirme"],
+    "description": "Veri analistleri, verileri yorumlayarak işletmelerin karar almasına yardımcı olur."
+  },
+  {
+    "id": "2",
+    "name": "Oyun Tasarımcısı",
+    "category": "Sanat ve Teknoloji",
+    "skills": ["Yaratıcılık", "Kodlama", "Senaryo yazımı"],
+    "description": "Oyun tasarımcıları, etkileşimli oyun deneyimlerini planlar."
+  },
+  {
+    "id": "3",
+    "name": "Dijital Pazarlama Uzmanı",
+    "category": "İletişim",
+    "skills": ["SEO", "Sosyal Medya", "Yaratıcı Yazarlık"],
+    "description": "Markaların dijital varlığını yönetir ve hedef kitleye ulaşmalarını sağlar."
+  },
+  {
+    "id": "4",
+    "name": "TEST",
+    "category": "test",
+    "skills": ["test"],
+    "description": "test"
+  },
+  {
+    "id": "5",
+    "name": "deneme",
+    "category": "1",
+    "skills": ["1"],
+    "description": "1"
+  }
+]
