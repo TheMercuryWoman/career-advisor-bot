@@ -1,0 +1,12 @@
+[
+    { "question": "Daha çok hangi tür işleri seversin?" },
+    { "question": "Zorlu bir durumda genelde ne yaparsın?" },
+    { "question": "Hobileriniz nelerdir?" },
+    { "question": "Bir sorun olduğunda ne yaparsın?" },
+    { "question": "Takım çalışması mı yoksa bireysel çalışma mı sana daha uygun?" },
+    { "question": "Hangi becerilerde iyisin?" },
+    { "question": "Gelecekte kendini nerede görüyorsun?" },
+    { "question": "Ne tür insanlarla geçinirsin?" },
+    { "question": "Hangi çalışma ortamında daha verimli olursun?" },
+    { "question": "Hangi tür projelerde çalışmaktan hoşlanırsın?" }
+]
