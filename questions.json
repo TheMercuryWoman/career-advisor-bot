@@ -8,5 +8,14 @@
     { "question": "Gelecekte kendini nerede görüyorsun?" },
     { "question": "Ne tür insanlarla geçinirsin?" },
     { "question": "Hangi çalışma ortamında daha verimli olursun?" },
-    { "question": "Hangi tür projelerde çalışmaktan hoşlanırsın?" }
+    { "question": "Hangi tür projelerde çalışmaktan hoşlanırsın?" },
+    { "question": "Seni en çok motive eden şey nedir?" },
+    { "question": "Bir işi seçerken senin için en önemli kriter nedir?" },
+    { "question": "Hangi alanlarda gelişmek istersin?" },
+    { "question": "Seni en çok yoran veya zorlayan iş türleri hangileridir?" },
+    { "question": "İş hayatında nasıl bir rol üstlenmek istersin?" },
+    { "question": "İş/özel hayat dengesi senin için ne kadar önemli?" },
+    { "question": "Yeni şeyler öğrenmeye nasıl yaklaşırsın?" },
+    { "question": "Tekrarlayan görevleri mi yoksa çeşitlilik sunan işleri mi tercih edersin?" },
+    { "question": "Zaman yönetimi konusunda kendini nasıl değerlendirirsin?" },
 ]
