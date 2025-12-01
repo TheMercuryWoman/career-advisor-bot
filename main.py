@@ -120,13 +120,13 @@ def save_session_questions(session_id, questions):
     conn.close()
 
 
-def save_answer(session_id, user_id, question, answer):
+def save_answer( user_id, question, answer):
     conn = sqlite3.connect(DB)
     c = conn.cursor()
     c.execute("""
-        INSERT INTO answers (session_id, user_id, question, answer)
-        VALUES (?, ?, ?, ?)
-    """, (session_id, user_id, question, answer))
+        INSERT INTO answers (user_id, question, answer)
+        VALUES (?, ?, ?)
+    """, ( user_id, question, answer))
     conn.commit()
     conn.close()
 
@@ -225,7 +225,7 @@ async def on_message(message):
 
     # Save into memory & database
     state["answers"].append(answer_text)
-    save_answer(session_id, uid, question_text, answer_text)
+    save_answer( uid, question_text, answer_text)
 
     # Move to next question
     state["index"] += 1
